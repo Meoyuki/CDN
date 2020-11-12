@@ -1,15 +1,15 @@
 .myTable { 
   width: 100%;
   text-align: left;
-  background-color: lemonchiffon;
+  background-color: white;
   border-collapse: collapse; 
   }
 .myTable th { 
-  background-color: goldenrod;
+  background-color: #157a85;
   color: white; 
   }
 .myTable td, 
 .myTable th { 
   padding: 10px;
-  border: 1px solid goldenrod; 
+  border: 1px solid #157a85; 
   }
